@@ -3,12 +3,12 @@ Header h1 {
 }
 nav ul li {
     float: left;
-    list-style-type: none
+    list-style-type: none;
 }
 nav ul li a {
     display: block;
     padding: .5rem 1rem;
-    background-color: coral
+    background-color: coral;
 }
 main h1 {
     clear: both;
@@ -17,5 +17,10 @@ main img {
     float: right;
 }
 footer {
-    text-align: center;
+    text-align: right;
+}
+main p {
+    color: deeppink;
+    font: bold;
+    
 }
